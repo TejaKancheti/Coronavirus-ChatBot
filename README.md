@@ -15,6 +15,9 @@ First install following dependencies
 
 if You need to retrain, train_chatbot.py is for training language model, while trainClassifier is for training symptoms classifier.
 
+
+Aim:
+Based on the symptoms the chatbot predicts percentage of covid effected to a person.
  
 
 
