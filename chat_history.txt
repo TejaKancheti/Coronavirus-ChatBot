@@ -1,0 +1,3270 @@
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 8,462,080
+2.Recovered Cases =7,819,886
+3.Total Deaths= 125,605
+Have you had a fever recently or do you think you have fever?
+1.Yes 2.No
+You: India
+Bot: are you feeling tired?
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+1.Yes 2.No
+You: yes
+Bot: Do you have overall pain in the body?
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+1.Yes 2.No
+You: yes
+Bot: are you having a runnny nose?
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+1.Yes 2.No
+You: yes
+Bot: According to your opinion are all above symptomps
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have 0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: moderate
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,184
+2.Recovered Cases =81,131
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+1.Yes 2.No
+You: china
+Bot: are you feeling tired?
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+1.Yes 2.No
+You: yes
+Bot: Do you have overall pain in the body?
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+1.Yes 2.No
+You: yes
+Bot: are you having a runnny nose?
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+1.Yes 2.No
+You: yes
+Bot: According to your opinion are all above symptomps
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have [100.]% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,184
+2.Recovered Cases =81,131
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+1.Yes 2.No
+You: china
+Bot: are you feeling tired?
+1.Yes 2.No
+You: no
+Bot: Do you have dry cough?
+1.Yes 2.No
+You: no
+Bot: Do you have difficulty in breathing?
+1.Yes 2.No
+You: no
+Bot: Do you have sore throat?
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+1.Yes 2.No
+You: no
+Bot: Do you have nasal conjestion?
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+1.Yes 2.No
+You: no
+Bot: To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 8,464,032
+2.Recovered Cases =7,819,886
+3.Total Deaths= 125,630
+Have you had a fever recently or do you think you have fever?
+1.Yes 2.No
+You: india
+Bot: are you feeling tired?
+1.Yes 2.No
+You: no
+Bot: Do you have dry cough?
+1.Yes 2.No
+You: no
+Bot: Do you have difficulty in breathing?
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+1.Yes 2.No
+You: yes
+Bot: According to your opinion are all above symptomps
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 5.1415265e-32% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Sorry I didn't understand, please kindly answer following
+
+You: sdfads
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+Ready to begin?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 343,189
+2.Recovered Cases =318,417
+3.Total Deaths= 6,968
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: pakistan
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 78
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: no
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 343,189
+2.Recovered Cases =318,417
+3.Total Deaths= 6,968
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: pakistan
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 43
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 43
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Sorry I didn't understand, please kindly answer following
+
+
+You: dsfa
+Bot: Sorry I didn't understand, please kindly answer following
+
+
+You: sfa
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Sorry I didn't understand, please kindly answer following
+
+What is your gender
+
+ 1.Male 2.Female 3.Other
+You: sfgsg
+Bot: Sorry I didn't understand, please kindly answer following
+
+What is your gender
+
+ 1.Male 2.Female 3.Other
+You: sfdgdsg
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: sdfaf
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: 3
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 65
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 67
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,267
+2.Recovered Cases =81,207
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,267
+2.Recovered Cases =81,207
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: tes
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 14,715
+2.Recovered Cases =9,537
+3.Total Deaths= 41
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: sri lanka
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,267
+2.Recovered Cases =81,207
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: no
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: no
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: yes
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: yes
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 23
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: us
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: usa
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: no
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 67
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: no
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: no
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: moderate
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: us
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: no
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: severe
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: no
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: no
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 67
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,578,681
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,020
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: china
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 56
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 8,659,513
+2.Recovered Cases =8,037,467
+3.Total Deaths= 127,810
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: india
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 359
+2.Recovered Cases =329
+3.Total Deaths= 25
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 23
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,579,938
+2.Recovered Cases =6,603,478
+3.Total Deaths= 246,034
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: united states of america
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 8,664,365
+2.Recovered Cases =8,042,607
+3.Total Deaths= 127,861
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: india
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 15,350
+2.Recovered Cases =10,183
+3.Total Deaths= 46
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: sri lanka
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 15,350
+2.Recovered Cases =10,183
+3.Total Deaths= 46
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: sri lanka
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: no
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 15,350
+2.Recovered Cases =10,183
+3.Total Deaths= 46
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: sri lanka
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: no
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: no
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details.
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: none
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,584,109
+2.Recovered Cases =6,603,489
+3.Total Deaths= 246,034
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: us
+Bot: are you feeling tired?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have dry cough?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+1.Yes 2.No
+You: yes
+Bot: Do you have sore throat?
+
+1.Yes 2.No
+You: no
+Bot: Do you have overall pain in the body?
+
+1.Yes 2.No
+You: no
+Bot: Do you have nasal conjestion?
+
+1.Yes 2.No
+You: yes
+Bot: are you having a runnny nose?
+
+1.Yes 2.No
+You: no
+Bot: Do you have diarrhea?
+
+1.Yes 2.No
+You: no
+Bot: According to your opinion are all above symptomps
+
+1.Mild 2.Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 84.27243828773499% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,584,109
+2.Recovered Cases =6,603,489
+3.Total Deaths= 246,034
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: us
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: 3
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: 1
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ 1.Male 2.Female 3.Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+1.Yes 2.No
+You: male
+Bot: Have you travelled in past few days?
+
+1.Yes 2.No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,584,109
+2.Recovered Cases =6,603,489
+3.Total Deaths= 246,034
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: us
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you had a fever recently or do you think you have fever?
+
+1.Yes 2.No
+You: 4
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ Male/Female 3.Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,584,109
+2.Recovered Cases =6,603,489
+3.Total Deaths= 246,034
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: us
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: no
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: no
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: yes
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have nasal conjestion?
+
+Yes/No
+You: ni
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: yes
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: Thank you for providing details.
+ you have 11.770082265138626% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 348,184
+2.Recovered Cases =320,065
+3.Total Deaths= 7,021
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: pakisthan
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: no
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: no
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: yes
+Bot: are you having a runnny nose?
+
+Yes/No
+You: yes
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+ you have 16.210398077964783% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 8,667,987
+2.Recovered Cases =8,045,297
+3.Total Deaths= 127,918
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: inia
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: yes
+Bot: are you having a runnny nose?
+
+Yes/No
+You: yes
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: yes
+Bot: Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+ you have 100.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+You: severe
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 98,829
+2.Recovered Cases =54,869
+3.Total Deaths= 763
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 448,118
+2.Recovered Cases =378,982
+3.Total Deaths= 14,836
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,284
+2.Recovered Cases =81,228
+3.Total Deaths= 4,634
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: china
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: no
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: yes
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: yes
+Bot: you have 93.25% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+You: moderate
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,284
+2.Recovered Cases =81,228
+3.Total Deaths= 4,634
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: china
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have dry cough?
+
+Yes/No
+You: noo
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: no
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: no
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have diarrhea?
+
+Yes/No
+You: o
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have diarrhea?
+
+Yes/No
+You: mo
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: Do you want to restart process? 
+
+You: mild
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 448,118
+2.Recovered Cases =378,982
+3.Total Deaths= 14,836
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 98,829
+2.Recovered Cases =54,869
+3.Total Deaths= 763
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 86,284
+2.Recovered Cases =81,228
+3.Total Deaths= 4,634
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: china
+Bot: are you feeling tired?
+
+Yes/No
+You: no
+Bot: Do you have dry cough?
+
+Yes/No
+You: no
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: no
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: mild
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 45
+Bot: Sorry I didn't understand, please kindly answer following
+
+What is your gender
+
+ Male Female Other
+You: femal
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: Female
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 86,284
+2.Recovered Cases =81,228
+3.Total Deaths= 4,634
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: china
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 34
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: female
+Bot: Sorry I didn't understand, please kindly answer following
+
+Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: yea
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: no
+Bot: To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 448,118
+2.Recovered Cases =378,982
+3.Total Deaths= 14,836
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 86,284
+2.Recovered Cases =81,228
+3.Total Deaths= 4,634
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: china
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 67
+Bot: Sorry I didn't understand, please kindly answer following
+
+What is your gender
+
+ Male Female Other
+You: no
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: no
+Bot: To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 98,829
+2.Recovered Cases =54,869
+3.Total Deaths= 763
+Sorry I didn't understand, please kindly answer following
+
+To what country did you travel?
+You: no
+Bot: 
+stats for country
+ 1.Total Cases = 26,195
+2.Recovered Cases =11,863
+3.Total Deaths= 285
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: norway
+Bot: are you feeling tired?
+
+Yes/No
+You: no
+Bot: Do you have dry cough?
+
+Yes/No
+You: no
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: no
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: no
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have overall pain in the body?
+
+Yes/No
+You: o
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have diarrhea?
+
+Yes/No
+You: o
+Bot: Sorry I didn't understand, please kindly answer following
+
+Do you have diarrhea?
+
+Yes/No
+You: o
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 0.0% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: mild
+Bot: Stay home and stay safe. please contact medical personal if symptoms occur
+
+ Diagnose process is stopped hereby. If you want to start over, please type start
+You: no
+Bot: Sorry I didn't understand, please kindly answer following
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+You: start
+Bot: Sorry I didn't understand, please kindly answer following
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+You: start
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 27
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 277,061
+2.Recovered Cases =223,199
+3.Total Deaths= 10,685
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: canada
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: no
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: yes
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 73.88% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: mild
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 45
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: female
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 10,708,630
+2.Recovered Cases =6,648,679
+3.Total Deaths= 247,397
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: america
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: yes
+Bot: are you having a runnny nose?
+
+Yes/No
+You: yes
+Bot: Do you have diarrhea?
+
+Yes/No
+You: yes
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 82.37% chance of having covid.
+**This is just a prediction, do not consider this as the best result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: moderate
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 37
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 15,350
+2.Recovered Cases =10,183
+3.Total Deaths= 46
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: srilanka
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: yes
+Bot: are you having a runnny nose?
+
+Yes/No
+You: yes
+Bot: Do you have diarrhea?
+
+Yes/No
+You: yes
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 100.0% chance of having covid.
+**This is just a prediction, consider this as the prediction result. As per expert doctors, to know whether you have covid or not is only by testing at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: severe
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: What is your gender
+
+ Male Female Other
+You: 25
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: female
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 1,028,424
+2.Recovered Cases =372,113
+3.Total Deaths= 42,953
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: italy
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: yes
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: no
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 100.0% chance of having covid.
+**This is an initial prediction only based on the symptoms you have entered, donot consider this as the final result, As per expert doctors, the only way to know if you have Covid or not is by actually going to testing center If you get more than 50%, we recommend you to get tested at the testing center at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: severe
+Bot: Please state your age
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 32
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: other
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: no
+Bot: To what country did you travel?
+You: no
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: Please state your age
+You: yes
+Bot: Sorry I didn't understand, please kindly answer following
+
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: yes
+Bot: Sorry I didn't understand, please kindly answer following
+
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: yes
+Bot: Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.
+
+Ready to begin?
+You: yes
+Bot: What is your age?
+You: yes
+Bot: Please state your gender
+
+ Male Female Other
+You: 32
+Bot: Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?
+
+Yes/No
+You: male
+Bot: Have you travelled in past few days?
+
+ Yes/No
+You: yes
+Bot: To what country did you travel?
+You: yes
+Bot: 
+stats for country
+ 1.Total Cases = 8,723,270
+2.Recovered Cases =8,105,400
+3.Total Deaths= 128,559
+
+Have you had a fever recently or do you think you have fever?
+
+Yes/No
+You: india
+Bot: are you feeling tired?
+
+Yes/No
+You: yes
+Bot: Do you have dry cough?
+
+Yes/No
+You: yes
+Bot: Do you have difficulty in breathing?
+
+Yes/No
+You: yes
+Bot: Do you have sore throat?
+
+Yes/No
+You: no
+Bot: Do you have overall pain in the body?
+
+Yes/No
+You: yes
+Bot: Do you have nasal conjestion?
+
+Yes/No
+You: no
+Bot: are you having a runnny nose?
+
+Yes/No
+You: no
+Bot: Do you have diarrhea?
+
+Yes/No
+You: no
+Bot: According to your opinion are all above symptomps
+
+Mild/Moderate 3.Severe 4.None
+You: no
+Bot: you have 84.66% chance of having covid.
+**This is an initial prediction only based on the symptoms you have entered, donot consider this as the final result, As per expert doctors, the only way to know if you have Covid or not is by actually going to testing center If you get more than 50%, we recommend you to get tested at the testing center at the nearby hospitals 
+
+Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel
+
+ Do you want to restart the process?
+You: mild
+Bot: Stay home and stay safe. please contact medical personal if symptoms occur
+
+ Diagnose process is stopped hereby.
+You: no

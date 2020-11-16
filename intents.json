@@ -1,0 +1,46 @@
+{"intents": [
+        {"tag": "start",
+         "patterns": ["yes", "yeah","yep", "start"],
+         "responses": ["Here is the latest information as of September 30, 2020:As cases continue to increase, many states have paused their reopening plans.The CDC guidelines continue to recommend social distancing, wearing masks in public settings, and frequent hand-washing. The only way to confirm if you have COVID-19 is to get tested with a kit. However, I can still help you figure out if you should seek medical care. I will ask you a few questions, and at the end, I can predict the probability of which you can be affected with COVID-19 based on your symptoms.\n\nReady to begin?"],
+         "context": ["start"]
+        },
+        {"tag": "begin",
+         "patterns": ["yes", "yeah","yep","okay"],
+         "responses": ["What is your age?", "Please state your age"],
+         "context": ["begin"]
+        },
+        {"tag": "stop",
+         "patterns": ["no", "nope","never","not now", "can't"],
+         "responses": ["Stay home and stay safe. please contact medical personal if symptoms occur\n\n Diagnose process is stopped hereby."],
+         "context": ["begin", "start"]
+        },
+        {"tag": "age",
+         "patterns": ["1", "2", "3", "4", "5", "6", "7", "8", "9","10","11", "12", "13", "14", "15", "16", "17", "18", "19","20","21", "22", "23", "24", "25", "26", "27", "28", "29","30","31", "32", "33", "34", "35", "36", "37", "38", "39","40","41", "42", "43", "44", "45", "46", "47", "48", "49", "50","51", "52", "53", "54", "55", "56", "57", "58", "59","60","61", "62", "63", "64", "65", "66", "67", "68", "69","70","71", "72", "73", "74", "75", "76", "77", "78", "79","80","81", "82", "83", "84", "85", "86", "87", "88", "89","90","91", "92", "93", "94", "95", "96", "97", "98", "99"],
+         "responses": ["What is your gender\n\n Male Female Other", "Please state your gender\n\n Male Female Other"],
+         "context": ["age"]
+        },
+
+        {"tag": "gender",
+         "patterns": ["male", "female", "other"],
+         "responses": ["Have you been at risk of exposure to COVID-19 by the people who is known to have COVID-19?\n\nYes/No"],
+         "context": ["gender"]
+        },
+
+        {"tag": "symptom",
+         "patterns": ["yes","no"],
+         "responses": ["Have you travelled in past few days?\n\n Yes/No", "To what country did you travel?", "are you feeling tired?\n\nYes/No", "Do you have dry cough?\n\nYes/No", "Do you have difficulty in breathing?\n\nYes/No", "Do you have sore throat?\n\nYes/No", "Do you have overall pain in the body?\n\nYes/No", "Do you have nasal conjestion?\n\nYes/No", "are you having a runnny nose?\n\nYes/No", "Do you have diarrhea?\n\nYes/No", "According to your opinion are all above symptomps\n\nMild/Moderate 3.Severe 4.None"],
+         "context": ["exposure","travel", "fever", "tired", "cough", "breathing", "sorethroat",  "pain", "nasal", "runnynose", "diarrhea"]
+        },
+        {"tag": "country",
+         "patterns": ["Afghanistan ","Albania ","Algeria ","American Samoa ","Andorra ","Angola ","Anguilla ","Antigua & Barbuda ","Argentina ","Armenia ","Aruba ","Australia ","Austria ","Azerbaijan ","Bahamas, The ","Bahrain ","Bangladesh ","Barbados ","Belarus ","Belgium ","Belize ","Benin ","Bermuda ","Bhutan ","Bolivia ","Bosnia & Herzegovina ","Botswana ","Brazil ","British Virgin Is. ","Brunei ","Bulgaria ","Burkina Faso ","Burma ","Burundi ","Cambodia ","Cameroon ","Canada ","Cape Verde ","Cayman Islands ","Central African Rep. ","Chad ","Chile ","China ","Colombia ","Comoros ","Congo, Dem. Rep. ","Congo, Repub. of the ","Cook Islands ","Costa Rica ","Cote d'Ivoire ","Croatia ","Cuba ","Cyprus ","Czech Republic ","Denmark ","Djibouti ","Dominica ","Dominican Republic ","East Timor ","Ecuador ","Egypt ","El Salvador ","Equatorial Guinea ","Eritrea ","Estonia ","Ethiopia ","Faroe Islands ","Fiji ","Finland ","France ","French Guiana ","French Polynesia ","Gabon ","Gambia, The ","Gaza Strip ","Georgia ","Germany ","Ghana ","Gibraltar ","Greece ","Greenland ","Grenada ","Guadeloupe ","Guam ","Guatemala ","Guernsey ","Guinea ","Guinea-Bissau ","Guyana ","Haiti ","Honduras ","Hong Kong ","Hungary ","Iceland ","India ","Indonesia ","Iran ","Iraq ","Ireland ","Isle of Man ","Israel ","Italy ","Jamaica ","Japan ","Jersey ","Jordan ","Kazakhstan ","Kenya ","Kiribati ","Korea, North ","Korea, South ","Kuwait ","Kyrgyzstan ","Laos ","Latvia ","Lebanon ","Lesotho ","Liberia ","Libya ","Liechtenstein ","Lithuania ","Luxembourg ","Macau ","Macedonia ","Madagascar ","Malawi ","Malaysia ","Maldives ","Mali ","Malta ","Marshall Islands ","Martinique ","Mauritania ","Mauritius ","Mayotte ","Mexico ","Micronesia, Fed. St. ","Moldova ","Monaco ","Mongolia ","Montserrat ","Morocco ","Mozambique ","Namibia ","Nauru ","Nepal ","Netherlands ","Netherlands Antilles ","New Caledonia ","New Zealand ","Nicaragua ","Niger ","Nigeria ","N. Mariana Islands ","Norway ","Oman ","Pakistan ","Palau ","Panama ","Papua New Guinea ","Paraguay ","Peru ","Philippines ","Poland ","Portugal ","Puerto Rico ","Qatar ","Reunion ","Romania ","Russia ","Rwanda ","Saint Helena ","Saint Kitts & Nevis ","Saint Lucia ","St Pierre & Miquelon ","Saint Vincent and the Grenadines ","Samoa ","San Marino ","Sao Tome & Principe ","Saudi Arabia ","Senegal ","Serbia ","Seychelles ","Sierra Leone ","Singapore ","Slovakia ","Slovenia ","Solomon Islands ","Somalia ","South Africa ","Spain ","Sri Lanka ","Sudan ","Suriname ","Swaziland ","Sweden ","Switzerland ","Syria ","Taiwan ","Tajikistan ","Tanzania ","Thailand ","Togo ","Tonga ","Trinidad & Tobago ","Tunisia ","Turkey ","Turkmenistan ","Turks & Caicos Is ","Tuvalu ","Uganda ","Ukraine ","United Arab Emirates ","United Kingdom ","United States ","Uruguay ","Uzbekistan ","Vanuatu ","Venezuela ","Vietnam ","Virgin Islands ","Wallis and Futuna ","West Bank ","Western Sahara ","Yemen ","Zambia ","Zimbabwe "],
+         "responses": ["\nHave you had a fever recently or do you think you have fever?\n\nYes/No"],
+         "context": ["country"]
+        },
+
+        {"tag": "severity",
+         "patterns": ["mild", "moderate", "severe", "none"],
+         "responses": ["Thank you for providing details. Please make sure you wash your hands regular,wear masks when going out,maintain proper distance and avoid unwanted travel"],
+         "context": ["severity"]
+        }
+]
+}
